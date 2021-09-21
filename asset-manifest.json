@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WebBasicsLabs/static/css/main.c47ff9c2.chunk.css",
+    "main.js": "/WebBasicsLabs/static/js/main.d67f74db.chunk.js",
+    "main.js.map": "/WebBasicsLabs/static/js/main.d67f74db.chunk.js.map",
+    "runtime-main.js": "/WebBasicsLabs/static/js/runtime-main.446004d9.js",
+    "runtime-main.js.map": "/WebBasicsLabs/static/js/runtime-main.446004d9.js.map",
+    "static/js/2.8f98f395.chunk.js": "/WebBasicsLabs/static/js/2.8f98f395.chunk.js",
+    "static/js/2.8f98f395.chunk.js.map": "/WebBasicsLabs/static/js/2.8f98f395.chunk.js.map",
+    "index.html": "/WebBasicsLabs/index.html",
+    "static/css/main.c47ff9c2.chunk.css.map": "/WebBasicsLabs/static/css/main.c47ff9c2.chunk.css.map",
+    "static/js/2.8f98f395.chunk.js.LICENSE.txt": "/WebBasicsLabs/static/js/2.8f98f395.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.446004d9.js",
+    "static/js/2.8f98f395.chunk.js",
+    "static/css/main.c47ff9c2.chunk.css",
+    "static/js/main.d67f74db.chunk.js"
+  ]
+}
