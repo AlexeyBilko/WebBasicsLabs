@@ -79,4 +79,4 @@ function Page5(){
     )
 }
 
-export default Page5
+export default Page5;
