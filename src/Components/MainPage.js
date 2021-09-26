@@ -9,13 +9,13 @@ import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 function MainPage() {
   return (
     <Router>
-    <Switch>
-      <Route exact path="/" ><Page1 /></Route>
-      <Route path="/page2"><Page2 /></Route>
-      <Route path="/page3"><Page3/></Route>
-      <Route path="/page4"><Page4 /></Route>
-      <Route path="/page5"><Page5 /></Route>
-    </Switch>
+      <Switch>
+        <Route exact path="/WebBasicsLabs" ><Page1 /></Route>
+        <Route path="/page2"><Page2 /></Route>
+        <Route path="/page3"><Page3/></Route>
+        <Route path="/page4"><Page4 /></Route>
+        <Route path="/page5"><Page5 /></Route>
+      </Switch>
   </Router>
   );
 }
